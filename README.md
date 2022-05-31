@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Alfonso
 Welcome to my github!
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently studying Software Engineering Bachelor's Degree (2019/2023)
 - 👯 I’m looking to collaborate on new and exciting projects
 - 🚀 I’m currently looking for **opportunities to develop my career**.

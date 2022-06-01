@@ -14,7 +14,7 @@ I code with :  👇
   
 <h3 align="left">Connect with me: 👇</h3>
 </p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alfonsomiralles/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alfonsomiralles/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alfonsomiralles/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alfonsomiralles/" height="30" width="40" /></a>
 <p align="left">
 </p>
 
@@ -24,7 +24,7 @@ I code with :  👇
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Alfonso Miralles Github Stats" src="https://github-readme-stats.vercel.app/api/?username=alfonsomiralles&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="alfonsomiralles's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsomiralles&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="alfonsomiralles Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsomiralles&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 </details>
 

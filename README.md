@@ -9,7 +9,7 @@ Welcome to my github!
 
 ---
   
-<h3 align="left">👇 Connect with me: </h3>
+## 👇 Connect with me:
 </p>
 <a href="https://www.linkedin.com/in/alfonsomiralles/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alfonsomiralles/" height="30" width="40" /></a>
 <p align="left">
@@ -28,6 +28,7 @@ Welcome to my github!
 ## Languages and Tools:
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -48,7 +49,9 @@ Welcome to my github!
 
 ![python](https://img.shields.io/badge/Python-19A2CA?style=for-the-badge&logo=python&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask-2040E1?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![java](https://img.shields.io/badge/Java-E20C1C?style=for-the-badge&logo=java&logoColor=white)
+![javascript](https://img.shields.io/badge/Javascript-e9d900?style=for-the-badge&logo=javascript&logoColor=white)
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![nodemon](https://img.shields.io/badge/Nodemon-12B83A?style=for-the-badge&logo=nodemon&logoColor=white)
 
@@ -70,6 +73,8 @@ Welcome to my github!
 ### 🖥️ Workspace Setup
 
 ![vs-code](https://img.shields.io/badge/VS_Code-198CCD?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![windows](https://img.shields.io/badge/Windows_10-2040E1?style=for-the-badge&logo=windows&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-E97B00?style=for-the-badge&logo=postman&logoColor=white)
 

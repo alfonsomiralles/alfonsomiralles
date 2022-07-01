@@ -48,7 +48,7 @@ Welcome to my github!
 
 ![python](https://img.shields.io/badge/Python-19A2CA?style=for-the-badge&logo=python&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask-2040E1?style=for-the-badge&logo=flask&logoColor=white)
-![java](https://img.shields.io/badge/Java-F19A14?style=for-the-badge&logo=java&logoColor=white)
+![java](https://img.shields.io/badge/Java-E20C1C?style=for-the-badge&logo=java&logoColor=white)
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![nodemon](https://img.shields.io/badge/Nodemon-12B83A?style=for-the-badge&logo=nodemon&logoColor=white)
 

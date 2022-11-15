@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate backend developer</h3>
                 
 <hr>
-🌱 Currently studying **Software Engineering Bachelor's Degree (2023)**
+🌱 Currently studying Software Engineering
 
 🤝 Looking for **opportunities to develop my career**
 

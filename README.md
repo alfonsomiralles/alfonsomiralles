@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alfonso</h1>
-<h2 align="center>Welcome to my github!</h2>
+<h2 align="center">Welcome to my github!</h2>
 <h3 align="center">I'm a passionate backend developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfonsomiralles&label=Profile%20views&color=0e75b6&style=flat" alt="alfonsomiralles" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfonsomiralles" alt="alfonsomiralles" /></a> </p>
-
+                  
 <hr>
 
-- 🌱 I’m currently studying **Software Engineering Bachelor's Degree (2023)**
+- 🌱 Currently studying **Software Engineering Bachelor's Degree (2023)**
 
-- 🤝 I’m currently looking for **opportunities to develop my career**
+- 🤝 Looking for **opportunities to develop my career**
 
-
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +21,10 @@
 
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsomiralles&show_icons=true&locale=en&layout=compact" alt="alfonsomiralles" /></p>
+<hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfonsomiralles&label=Profile%20views&color=0e75b6&style=flat" alt="alfonsomiralles" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfonsomiralles" alt="alfonsomiralles" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfonsomiralles&show_icons=true&locale=en" alt="alfonsomiralles" /></p>
 

@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alfonso</h1>
-<h2 align="center">Welcome to my github!</h2>
-<h3 align="center">I'm a passionate backend developer</h3>
+<h1 align="center">Welcome to my github!</h1>
+<h2 align="center">👋 I'm Alfonso</h2>
+<h3 align="center">A passionate backend developer</h3>
                 
 <hr>
 🌱 Currently studying Software Engineering

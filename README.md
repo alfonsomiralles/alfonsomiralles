@@ -1,11 +1,8 @@
 <h1 align="center">Welcome to my github!</h1>
 <h2 align="center">👋 I'm Alfonso</h2>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">Software Engineer</h3>
                 
 <hr>
-🌱 Currently studying Software Engineering
-
-🤝 Looking for **opportunities to develop my career**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

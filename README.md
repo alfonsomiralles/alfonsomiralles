@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my github!</h1>
-<h2 align="center">👋 I'm Alfonso</h2>
+<h2 align="center">Hi! I'm Alfonso</h2>
 <h3 align="center">Software Engineer</h3>
                 
 <hr>

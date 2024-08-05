@@ -5,9 +5,6 @@
 <hr>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-alt="alfonsomiralles" height="30" width="40" /></a>
-</p>
 📫 How to reach me **alfonsomiralles1@gmail.com**
 <hr>
 

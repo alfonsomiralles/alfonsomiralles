@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alfonsomiralles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfonsomiralles" height="30" width="40" /></a>
+alt="alfonsomiralles" height="30" width="40" /></a>
 </p>
 📫 How to reach me **alfonsomiralles1@gmail.com**
 <hr>
